@@ -1,9 +1,93 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="-tQ7whY5Fik8iXElyoLa">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-28" value="" style="whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="680" y="148" width="470" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-40" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;DR Process&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=10;" edge="1" parent="1" source="AtF1Sjo9XK-ReLlA-ngs-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="413" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-19" value="" style="whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="30" y="138" width="470" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="198" width="350" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-17" value="PAM Trust" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="AtF1Sjo9XK-ReLlA-ngs-10" source="AtF1Sjo9XK-ReLlA-ngs-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-3" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="AtF1Sjo9XK-ReLlA-ngs-10">
+          <mxGeometry width="350" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-2" value="&lt;div&gt;Domain&lt;/div&gt;&lt;div&gt;Controller&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="AtF1Sjo9XK-ReLlA-ngs-10">
+          <mxGeometry x="30" y="50" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-5" value="&lt;div&gt;Domain&lt;/div&gt;&lt;div&gt;Controller&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="AtF1Sjo9XK-ReLlA-ngs-10">
+          <mxGeometry x="154.5" y="50" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-7" value="&lt;div&gt;Domain&lt;/div&gt;&lt;div&gt;Controller&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="AtF1Sjo9XK-ReLlA-ngs-10">
+          <mxGeometry x="270" y="50" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-9" value="insurance.lan" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AtF1Sjo9XK-ReLlA-ngs-10">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-41" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Veeam Backup&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=6;strokeColor=#00FF00;" edge="1" parent="1" source="AtF1Sjo9XK-ReLlA-ngs-12" target="AtF1Sjo9XK-ReLlA-ngs-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-12" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="175" y="480" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-14" value="&lt;div&gt;Domain&lt;/div&gt;&lt;div&gt;Controller&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="244.5" y="518" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-27" value="bastion.lan" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="480" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-16" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;Swansea DC&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="148" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="740" y="208" width="350" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-30" value="PAM Trust" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="AtF1Sjo9XK-ReLlA-ngs-29" source="AtF1Sjo9XK-ReLlA-ngs-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-31" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="AtF1Sjo9XK-ReLlA-ngs-29">
+          <mxGeometry width="350" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-32" value="&lt;div&gt;Domain&lt;/div&gt;&lt;div&gt;Controller&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="AtF1Sjo9XK-ReLlA-ngs-29">
+          <mxGeometry x="30" y="50" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-33" value="&lt;div&gt;Domain&lt;/div&gt;&lt;div&gt;Controller&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="AtF1Sjo9XK-ReLlA-ngs-29">
+          <mxGeometry x="154.5" y="50" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-34" value="&lt;div&gt;Domain&lt;/div&gt;&lt;div&gt;Controller&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="AtF1Sjo9XK-ReLlA-ngs-29">
+          <mxGeometry x="270" y="50" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-35" value="insurance.lan" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AtF1Sjo9XK-ReLlA-ngs-29">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-36" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="825" y="480" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-37" value="&lt;div&gt;Domain&lt;/div&gt;&lt;div&gt;Controller&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="894.5" y="528" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-38" value="bastion.lan" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="480" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AtF1Sjo9XK-ReLlA-ngs-39" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Welwyn DC&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="158" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
